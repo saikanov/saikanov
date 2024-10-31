@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://imgur.com/j4h0Obg"/>
+<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/j4h0Obg.jpeg"/>
 <h2> / about me /</h2>
   
 - ⭐ currently working on **web-development**
