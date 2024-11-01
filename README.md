@@ -8,7 +8,7 @@
 I'm currently contribute at <a href="https://cagliostrolab.net/page/1">Cagliostro Research Lab</a><br>Focus on AI related Field<br>Fully self-taught engineer
 
 
-🌐 Socials:
+🌐 Socials:</br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/saikanov) 
 
 💻 Tech Stack:</br>
