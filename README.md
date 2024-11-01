@@ -4,7 +4,7 @@
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/j4h0Obg.jpeg"/>
 
-<b style="font-size:16">💫 About Me:</b> </br> 
+<b style="font-size:30px">💫 About Me:</b> </br> 
 I'm currently contribute at <a href="https://cagliostrolab.net/page/1">Cagliostro Research Lab</a><br>Focus on AI related Field<br>Fully self-taught engineer
 
 
