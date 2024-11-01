@@ -1,6 +1,6 @@
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-<div style="flex: 1;">
+<table>
+<tr>
+<td>
 
 # Halo, nice to meet you!
 
@@ -18,14 +18,16 @@ Fully self-taught engineer
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)
 
-</div>
+</td>
 
-<div>
-  <img width="400" alt="Shimarin" src="https://i.imgur.com/j4h0Obg.jpeg"/>
-  <p align="center"><a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a></p>
-</div>
+<td>
 
-</div>
+<img width="400" alt="Shimarin" src="https://i.imgur.com/j4h0Obg.jpeg"/>
+<p align="center"><a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a></p>
+
+</td>
+</tr>
+</table>
 
 ---
 
